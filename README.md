@@ -239,10 +239,7 @@ Nabula showcases a high-fidelity design system that includes responsive UI card 
 
 ## 📜 Professional Certifications
 
-### 🌐 AWS
-*   <img src="https://img.shields.io/badge/AWS-Academy_Graduate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> **AWS Cloud Foundations & Architecture** (In-Progress)
-
-### ☕ Oracle
+### ☕ Apna College
 *   <img src="https://img.shields.io/badge/Oracle-Java_SE_DSA-F80000?style=flat-square&logo=oracle&logoColor=white" /> **Data Structures & Algorithms in Java** — Apna College (Industry Curriculum aligned with Oracle Core Java)
 
 ### 🎓 NPTEL / IBM / Coursera
@@ -260,16 +257,16 @@ Nabula showcases a high-fidelity design system that includes responsive UI card 
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Ram-Sah19/" target="_blank">
+<a href="[https://leetcode.com/u/Ram-Sah19/](https://leetcode.com/u/Rambilas/)" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
-<a href="https://www.geeksforgeeks.org/user/ram6070246/" target="_blank">
+<a href="[https://www.geeksforgeeks.org/user/ram6070246/](https://www.geeksforgeeks.org/profile/rambilasspoiq)" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </a>
 <a href="https://www.hackerrank.com/profile/Ram_Sah19" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
 </a>
-<a href="https://www.codechef.com/users/ram_sah19" target="_blank">
+<a href="[https://www.codechef.com/users/ram_sah19](https://www.codechef.com/users/ram_sah10)" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </a>
 
@@ -280,12 +277,13 @@ Nabula showcases a high-fidelity design system that includes responsive UI card 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ram-Sah19&show_icons=true&theme=darkviolet&hide_border=true&title_color=a855f7&text_color=e2e8f0&icon_color=c084fc&bg_color=0f0b1a" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-Sah19&layout=compact&theme=darkviolet&hide_border=true&title_color=a855f7&text_color=e2e8f0&bg_color=0f0b1a" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ram-Sah19&theme=darkviolet&hide_border=true&stroke=a855f7&ring=c084fc&fire=a855f7&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=e2e8f0&dates=e2e8f0&background=0f0b1a" alt="GitHub Streak" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ram-Sah19&show_icons=true&theme=darkviolet&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-Sah19&layout=compact&theme=darkviolet&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ram-Sah19&theme=darkviolet&hide_border=true" alt="GitHub Streak" />
+</p>
 </div>
 
 ---
@@ -293,7 +291,12 @@ Nabula showcases a high-fidelity design system that includes responsive UI card 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ram-Sah19&theme=violet&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  ## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ram-Sah19&theme=violet&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
 </div>
 
 ---
@@ -301,7 +304,12 @@ Nabula showcases a high-fidelity design system that includes responsive UI card 
 ## 📈 Contribution Activity
 
 <div align="center">
+  ## 📈 Contribution Activity
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ram-Sah19&bg_color=0f0b1a&color=a855f7&line=a855f7&point=c084fc&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+
 </div>
 
 ---
