@@ -12,8 +12,8 @@
   
   <br/><br/>
   
-  <a href="https://github.com/Ram-Sah19"><img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/rambilas-sah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[https://github.com/Ram-Sah19](https://ramsah.netlify.app/)"><img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href=["https://linkedin.com/in/rambilas-sah](https://www.linkedin.com/in/rambilas-sah/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ram6070246@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Ram-Sah19"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   
