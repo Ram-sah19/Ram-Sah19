@@ -294,9 +294,8 @@ Nabula showcases a high-fidelity design system that includes responsive UI card 
   ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ram-Sah19&theme=violet&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ram-Sah19&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
-
 </div>
 
 ---
