@@ -277,10 +277,10 @@ Nabula showcases a high-fidelity design system that includes responsive UI card 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <p align="center">
+  <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ram-Sah19&show_icons=true&theme=darkviolet&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-Sah19&layout=compact&theme=darkviolet&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ram-Sah19&theme=darkviolet&hide_border=true" alt="GitHub Streak" />
 </p>
