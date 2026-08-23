@@ -86,105 +86,6 @@ I am a forward-thinking Software Engineer and AI/ML Specialist with a product en
 
 ---
 
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🩺 Sanguis AI — Blood Donation Intelligence Platform</b></summary>
-
-### Sanguis AI
-A machine-learning-driven healthcare logistics solution built to address blood supply chain inefficiencies. It automates donor eligibility evaluation and translates unstructured emergency requests into structured, actionable orders using state-of-the-art NLP.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Python · FastAPI · Scikit-Learn · Google Gemini NLP · React · MongoDB · JWT Auth |
-| **Scale** | Handles high-frequency medical queries; structured data schema with indexing for fast lookups. |
-| **Performance** | Instant eligibility predictions; high-speed LLM processing replacing brittle rule-based routing. |
-| **Security** | JSON Web Token (JWT) authorization; secure patient EMR processing and routing logic. |
-| **Impact** | Optimized matching of donors to active urgent surgeries, minimizing response time. |
-| **Repository** | [Access Repository](https://github.com/Ram-Sah19/Sanguis-AI) |
-
-#### Professional Project Breakdown
-Sanguis AI integrates machine learning and NLP into a full-stack dashboard. A Scikit-Learn model trained on the UCI Transfusion dataset classifies donor eligibility in real-time. Unstructured text (e.g., chat/SMS queries like "Need 2 units O- at City Hospital") is dynamically parsed into structured objects via Google Gemini NLP, improving processing speed and accuracy.
-</details>
-
-<details>
-<summary><b>🚦 Gridlock — AI-Driven Traffic & Parking Intelligence</b></summary>
-
-### Gridlock
-An AI-powered geospatial mapping and analytics application designed to optimize traffic demand and identify vehicle congestion hotspots across urban zones.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Python · Scikit-Learn (DBSCAN) · LightGBM · XGBoost · CatBoost · pandas · Folium |
-| **Scale** | Scaled to handle dense municipal geospatial datasets; cross-validated triple ensemble architecture. |
-| **Performance** | Achieved 90% accuracy in congestion hotspot identification and traffic forecasting. |
-| **Security** | Secure data preprocessing pipelines; anonymized and sanitized coordinate mapping. |
-| **Impact** | Placed in the **Top Team** out of **30,000+ entries** in Flipkart Hackathon. |
-| **Repository** | [Access Repository](https://github.com/Ram-Sah19/Gridlock-AI) |
-
-#### Professional Project Breakdown
-Gridlock uses unsupervised machine learning (DBSCAN clustering) to analyze coordinate density and automatically identify zones experiencing severe traffic congestion. Time-series data is processed through a robust triple ensemble pipeline of LightGBM, XGBoost, and CatBoost with 5-fold cross-validation to predict rides/delivery demand. Insights are compiled into an interactive map dashboard built with Folium.
-</details>
-
-<details>
-<summary><b>🏥 Telemedicine Platform — AI Healthcare System</b></summary>
-
-### Telemedicine Platform
-A comprehensive clinical management dashboard facilitating patient registration, appointment scheduling, electronic medical records (EMR), and automated symptom triaging.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | React.js · Node.js · Supabase (PostgreSQL) · AI Chatbot · Health Metrics APIs |
-| **Scale** | Unified multiple health monitoring APIs into a singular, structured database layer. |
-| **Performance** | Responsive UI under load, sub-second latency for API requests and telemetry updates. |
-| **Security** | Role-Based Access Control (RBAC); secure storage of patient credentials and history. |
-| **Impact** | Recognized as a **Nasscom Finalist** (Top Team / 5,743 entries). |
-| **Repository** | [Access Repository](https://github.com/Ram-Sah19/Telemedicine-Platform) |
-
-#### Professional Project Breakdown
-Designed to streamline digital patient care, this platform incorporates an AI-driven chatbot for initial symptom triage. The application features full EMR functionality, secure authorization, and integrates external medical hardware metrics via APIs. The project stood out for its robust UI/UX design and mobile-responsive layout under heavy live testing during the Nasscom competition.
-</details>
-
-<details>
-<summary><b>🏨 Holiday Hideout — Full-Stack Booking Platform</b></summary>
-
-### Holiday Hideout
-A luxury vacation booking web application supporting role-based logins, booking states, and custom multimedia management.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | React.js · Node.js · MongoDB · REST APIs · Cloudinary CDN · AI Chatbot · Role-Based Auth |
-| **Scale** | Enterprise booking structure supporting millions of listings; high-throughput image hosting. |
-| **Performance** | **65% frontend performance optimization**; 1.5s average page load via database indexing. |
-| **Security** | Role-based authentication (guest/host) and secure session middleware. |
-| **Impact** | Handled full SDLC from wireframing to production deployment with a custom customer service bot. |
-| **Repository** | [Access Repository](https://github.com/Ram-Sah19/Holiday-Hideout) |
-
-#### Professional Project Breakdown
-Holiday Hideout implements the MVC architectural pattern to deliver a robust reservation dashboard. By utilizing Cloudinary CDN for smart media loading and establishing precise MongoDB database indexing on search criteria, average page loading speeds were significantly reduced to 1.5 seconds.
-</details>
-
-<details>
-<summary><b>🛒 Nabula — Ultra-Premium E-Commerce Platform</b></summary>
-
-### Nabula
-An ultra-premium electronic and laptop e-commerce site featuring a dark-mode glassmorphism design system.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | React.js · Java · PostgreSQL · Maven · CI/CD · JWT Auth (Access/Refresh Tokens) |
-| **Scale** | Multi-entity relational database design; admin panel with inventory tracking. |
-| **Performance** | Optimized query pipelines for transaction processes and heavy item catalogs. |
-| **Security** | Dual JWT structure featuring short-lived access tokens and secure refresh tokens. |
-| **Impact** | Shipped a highly polished commercial storefront with secure cart checkout pipelines. |
-| **Repository** | [Access Repository](https://github.com/Ram-Sah19/Nabula) |
-
-#### Professional Project Breakdown
-Nabula showcases a high-fidelity design system that includes responsive UI card components, fluid hover transitions, and a secure checkout flow. The Java Spring/Maven backend interacts with a PostgreSQL database, providing scalable product sorting, seller inventory tools, and strict administrative privileges.
-</details>
-
----
-
 ## 💼 Professional Experience
 
 ### Full Stack Development Intern | Imagivite Technology
@@ -196,20 +97,6 @@ Nabula showcases a high-fidelity design system that includes responsive UI card 
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Node Clustering` `Mongoose`
 
-### Full Stack Development Intern | SaiKet Systems
-**May 2026 – Present (Remote)**
-*   Participating in a structured 6-level enterprise program, working closely on production deliverables.
-*   Architecting and securing task management REST APIs with Node.js and Express.
-*   Enforcing standard testing procedures and optimizing endpoint response times.
-
-`Node.js` `Express.js` `REST APIs` `API Documentation` `Postman`
-
-### MERN Stack Development Intern | Maincrafts Technology
-**June 2026 – June 2026 (Remote)**
-*   Participated in an intensive MERN development incubator.
-*   Engineered and shipped React-based frontend modules and Node/Express backends under tight sprint timelines.
-
-`React.js` `Node.js` `Express.js` `MongoDB` `MERN Stack`
 
 ### Virtual Intern — AI/ML Track | Infosys Springboard 7.0
 **2026 (Remote)**
@@ -234,24 +121,6 @@ Nabula showcases a high-fidelity design system that includes responsive UI card 
 | **Deloitte Tech Job Simulation** | Completed advanced software engineering and technical consulting simulations. |
 
 </div>
-
----
-
-## 📜 Professional Certifications
-
-### ☕ Apna College
-*   <img src="https://img.shields.io/badge/Oracle-Java_SE_DSA-F80000?style=flat-square&logo=oracle&logoColor=white" /> **Data Structures & Algorithms in Java** — Apna College (Industry Curriculum aligned with Oracle Core Java)
-
-### 🎓 NPTEL / IBM / Coursera
-*   <img src="https://img.shields.io/badge/IBM-Generative_AI_for_Data_Science-052F72?style=flat-square&logo=ibm&logoColor=white" /> **Generative AI for Data Science** — IBM (Coursera)
-*   <img src="https://img.shields.io/badge/Coursera-Generative_AI_Unleashed-0056D2?style=flat-square&logo=coursera&logoColor=white" /> **Generative AI Unleashed**
-*   <img src="https://img.shields.io/badge/NPTEL-Computer_Vision_101-002D62?style=flat-square&logo=google&logoColor=white" /> **Computer Vision 101**
-
-### 🔌 Cisco
-*   <img src="https://img.shields.io/badge/Cisco-Artificial_Intelligence_Primer-00BFFF?style=flat-square&logo=cisco&logoColor=white" /> **Artificial Intelligence Primer**
-*   <img src="https://img.shields.io/badge/Cisco-Robotic_Process_Automation-00BFFF?style=flat-square&logo=cisco&logoColor=white" /> **Introduction to Robotic Process Automation**
-
----
 
 ## 💻 Coding Profiles
 
